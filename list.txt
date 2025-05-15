@@ -2,6 +2,7 @@
 브렌치 학습
 
 good
+hello
 total 53
 drwxr-xr-x 1 김호성 197121     0 Apr 17 11:10 ./
 drwxr-xr-x 1 김호성 197121     0 Apr 17 10:47 ../
